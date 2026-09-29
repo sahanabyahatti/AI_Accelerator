@@ -1,0 +1,5 @@
+﻿sim/*
+waveforms/*
+*.vcd
+*.out
+*.vvp
